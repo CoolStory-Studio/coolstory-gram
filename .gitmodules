@@ -1,6 +1,9 @@
 [submodule "server"]
 	path = server
-	url = https://github.com/CoolStory-Studio/coolstory-gram-server
+	url = ../coolstory-gram-server.git
+    branch = main
 [submodule "client"]
 	path = client
-	url = https://github.com/CoolStory-Studio/coolstory-gram-client
+	url = ../coolstory-gram-client.git
+    branch = main
+
